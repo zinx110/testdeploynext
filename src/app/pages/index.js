@@ -1,7 +1,8 @@
-import Nav from '../components/nav'
+import Nav from "../components/nav";
 
-export default () =>
+export default () => (
   <>
-    <p>This page is served by the index function.</p>
+    <p>This page is served by the index function1.</p>
     <Nav />
   </>
+);
